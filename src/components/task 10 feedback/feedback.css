@@ -1,0 +1,9 @@
+.pink{
+    background-image: linear-gradient(to left,pink,white);
+}
+.bdr{
+    border-radius: 30px;
+}
+.badge{
+    text-decoration: none;
+}

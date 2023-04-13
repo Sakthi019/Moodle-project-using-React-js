@@ -1,0 +1,35 @@
+.bg-cor{
+    background-image: linear-gradient(to right,rgb(166, 0, 255),rgb(255, 0, 179));
+    min-height: 100vh;
+}
+.cen{
+    display: grid;
+    place-items: center;
+}
+.bg{
+    border-radius: 30px;
+}
+.inp::placeholder{
+    text-align: center;
+}
+.inp{
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+.inpt{
+    background-color: whitesmoke;
+    border-radius: 30px;
+    padding: 5px;
+    border: 1px solid black;
+}
+.bt{
+    width: 200px;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: rgb(41, 207, 41);
+    border: none;
+}
+.gclr{
+    color:  rgb(41, 207, 41);
+}

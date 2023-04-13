@@ -1,0 +1,10 @@
+.bg-img{
+    background-image: url("./bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 99vh;
+    
+}
+.bg-cl{
+    background-color: aqua;
+}

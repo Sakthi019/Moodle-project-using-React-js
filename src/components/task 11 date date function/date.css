@@ -1,0 +1,6 @@
+.bg-date{
+    background-image: url("./d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
